@@ -11,7 +11,8 @@ Este repositorio contiene la solución a dos Katas de programación (FizzBuzz y 
 El programa imprime números del 1 al 100 siguiendo las reglas de sustitución por "Fizz", "Buzz" o "FizzBuzz".
 
 ### Código
-![Inserta aquí la captura de tu código FizzBuzz]
+![<img width="844" height="513" alt="image" src="https://github.com/user-attachments/assets/79823581-a3b7-4886-baf3-2e854a18db77" />
+]
 
 ### Depuración
 En esta captura se puede observar el valor de la variable `i` durante la iteración 15, donde entra en la condición principal.
