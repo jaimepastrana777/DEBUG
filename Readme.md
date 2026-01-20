@@ -16,7 +16,8 @@ El programa imprime números del 1 al 100 siguiendo las reglas de sustitución p
 
 ### Depuración
 En esta captura se puede observar el valor de la variable `i` durante la iteración 15, donde entra en la condición principal.
-![Inserta aquí captura del debug FizzBuzz con variables visibles]
+![<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/daf508ed-ec3a-4ee6-976c-d2bee9867e90" />
+]
 
 ---
 
@@ -24,7 +25,8 @@ En esta captura se puede observar el valor de la variable `i` durante la iteraci
 Implementación simplificada de un Tamagotchi con atributos de hambre, energía y humor.
 
 ### Código
-![Inserta aquí la captura de tu código Tamagotchi]
+![<img width="946" height="834" alt="image" src="https://github.com/user-attachments/assets/0ce54297-c4cf-467e-8280-e7d6be169b7a" />
+]
 
 ### Depuración
 Aquí se observa el objeto `miMascota` en el panel de variables. Se han desplegado sus atributos para verificar que, tras ejecutar el método `play()`, la energía ha disminuido y el humor ha aumentado.
