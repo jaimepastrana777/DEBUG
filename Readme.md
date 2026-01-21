@@ -20,7 +20,7 @@ En esta captura se puede observar el valor de la variable `i` durante la iteraci
 
 ---
 ## 2. Kata Tamagotchi v1.0
-Implementación simplificada de un Tamagotchi con atributos de hambre, energía y humor.
+Implementación simplificada de un Tamagotchi con atributos de hambre, juego y diversión.
 
 ### Código
 ![<img width="946" height="834" alt="image" src="https://github.com/user-attachments/assets/0ce54297-c4cf-467e-8280-e7d6be169b7a" />
