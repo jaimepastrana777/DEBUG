@@ -16,11 +16,9 @@ El programa imprime números del 1 al 100 siguiendo las reglas de sustitución p
 
 ### Depuración
 En esta captura se puede observar el valor de la variable `i` durante la iteración 15, donde entra en la condición principal.
-![<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/daf508ed-ec3a-4ee6-976c-d2bee9867e90" />
-]
+![<img width="1421" height="987" alt="Captura de pantalla 2026-01-21 135140" src="https://github.com/user-attachments/assets/015f1b20-fec9-4398-a6d0-f22f7645accc" />]
 
 ---
-
 ## 2. Kata Tamagotchi v1.0
 Implementación simplificada de un Tamagotchi con atributos de hambre, energía y humor.
 
@@ -30,7 +28,8 @@ Implementación simplificada de un Tamagotchi con atributos de hambre, energía 
 
 ### Depuración
 Aquí se observa el objeto `miMascota` en el panel de variables. Se han desplegado sus atributos para verificar que, tras ejecutar el método `play()`, la energía ha disminuido y el humor ha aumentado.
-![Inserta aquí captura del debug Tamagotchi mostrando las variables del objeto]
+![<img width="1330" height="986" alt="Captura de pantalla 2026-01-21 141525" src="https://github.com/user-attachments/assets/3dd3627f-3132-4f65-92ad-403a7f70f5b3" />
+]
 
 ---
 
