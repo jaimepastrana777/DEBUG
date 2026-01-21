@@ -24,14 +24,8 @@ Implementación simplificada de un Tamagotchi con atributos de hambre, juego y d
 
 ### Código
 ![<img width="946" height="834" alt="image" src="https://github.com/user-attachments/assets/0ce54297-c4cf-467e-8280-e7d6be169b7a" />
-]
 
 ### Depuración
 Aquí se observa el objeto `miMascota` en el panel de variables. Se han desplegado sus atributos para verificar que, tras ejecutar el método `play()`, la energía ha disminuido y el humor ha aumentado.
 ![<img width="1330" height="986" alt="Captura de pantalla 2026-01-21 141525" src="https://github.com/user-attachments/assets/3dd3627f-3132-4f65-92ad-403a7f70f5b3" />
 ]
-
----
-
-## Conclusiones
-La depuración ha permitido verificar paso a paso que la lógica de prioridades en el estado del Tamagotchi funciona correctamente, especialmente en los casos límite donde la energía llega a 0.
