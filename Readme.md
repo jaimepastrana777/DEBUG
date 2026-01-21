@@ -1,7 +1,7 @@
-# Resolución de Katas y Depuración en Java
+# Resolución de katas y depuración en Java
 Este repositorio contiene la solución a dos Katas (FizzBuzz y Tamagotchi) y evidencia del uso de herramientas de depuración en VS Code.
 
-## Estructura del Proyecto
+## Estructura del proyecto
 * `FizzBuzz.java`: Algoritmo clásico de FizzBuzz.
 * `Tamagotchi.java`: Clase lógica de la mascota virtual.
 * `MainTamagotchi.java`: Clase ejecutable para probar la mascota.
@@ -16,7 +16,7 @@ El programa imprime números del 1 al 100 siguiendo las reglas de sustitución p
 <img width="1421" height="987" alt="Captura de pantalla 2026-01-21 135140" src="https://github.com/user-attachments/assets/015f1b20-fec9-4398-a6d0-f22f7645accc" />
 
 ---
-## 2. Kata Tamagotchi v1.0
+## 2. Kata Tamagotchi 
 Implementación simplificada de un Tamagotchi con atributos de hambre, juego y diversión.
 
 ### Capturas de pantalla 
