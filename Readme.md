@@ -27,5 +27,5 @@ Implementación simplificada de un Tamagotchi con atributos de hambre, juego y d
 ### Capturas de pantalla 
 ---
 
-Captura del proceso de depuración durante la ejecución del kata Tamagotchi. Aquí se detiene la ejecución justo después de instanciar un objeto Tamagotchi y antes de modificar sus atributos. El breakpoint en el método alimentar() permite observar el estado de los atributos hambre, diversion y otros, para verificar que el cambio de estado se realiza correctamente.
+Captura del proceso de depuración durante la ejecución del kata Tamagotchi. Aquí se detiene la ejecución justo después de instanciar un objeto Tamagotchi y antes de modificar sus atributos. El breakpoint en el método alimentar permite observar el estado de los atributos hambre, diversion y otros, para verificar que el cambio de estado se realiza correctamente.
 <img width="1330" height="986" alt="Captura de pantalla 2026-01-21 141525" src="https://github.com/user-attachments/assets/3dd3627f-3132-4f65-92ad-403a7f70f5b3" />
