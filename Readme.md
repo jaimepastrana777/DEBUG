@@ -12,8 +12,10 @@ El programa imprime números del 1 al 100 siguiendo las reglas de sustitución p
 ### Código
 <img width="844" height="513" alt="image" src="https://github.com/user-attachments/assets/79823581-a3b7-4886-baf3-2e854a18db77"/>
 
-## Capturas de pantalla 
+## Capturas de pantalla
+Esta captura muestra la ejecución del kata FizzBuzz en modo depuración en VS Code. Se observa un breakpoint activo en una condición if, deteniendo la ejecución en una iteración del bucle for. En el panel de Variables se pueden ver los valores actuales de las variables i y resultado, permitiendo verificar que la lógica de sustitución con “Fizz”, “Buzz” y “FizzBuzz” funciona correctamente.
 <img width="1421" height="987" alt="Captura de pantalla 2026-01-21 135140" src="https://github.com/user-attachments/assets/015f1b20-fec9-4398-a6d0-f22f7645accc" />
+
 
 ---
 ## 2. Kata Tamagotchi 
