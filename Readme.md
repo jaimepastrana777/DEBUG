@@ -1,4 +1,4 @@
-# Resolución de katas y depuración en Java
+# Resolución de katas en Java
 Este repositorio contiene la solución a dos Katas (FizzBuzz y Tamagotchi) y evidencia del uso de herramientas de depuración en VS Code.
 
 ## Estructura del proyecto
