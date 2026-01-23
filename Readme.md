@@ -23,6 +23,9 @@ Esta captura muestra la ejecución del kata FizzBuzz en modo depuración en VS C
 ## 2. Kata Tamagotchi 
 Implementación simplificada de un Tamagotchi con atributos de hambre, juego y diversión.
 
+
+
+
 ### Capturas de pantalla 
 ---
 
