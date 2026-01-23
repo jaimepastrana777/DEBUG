@@ -3,7 +3,7 @@ Este repositorio contiene la solución a dos Katas (FizzBuzz y Tamagotchi) y evi
 
 ## Estructura del proyecto
 * `FizzBuzz.java`: Algoritmo clásico de FizzBuzz.
-* `Tamagotchi.java`: Clase lógica de la mascota virtual.
+* `Tamagotchi.java`: Clase de la mascota virtual.
 * `MainTamagotchi.java`: Clase ejecutable para probar la mascota.
 
 ## 1. Kata FizzBuzz
